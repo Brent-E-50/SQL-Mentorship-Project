@@ -1,7 +1,7 @@
 # SQL-Project
 
 ### Overview
-The purpose of this SQL Analysis was to get an estimate as to how many employees were within retirement range in addition to how many employees were eligible for the mentorship program to replace the retiriing employees. We can get this information through data aggregation. Below will show my though process in addition to what syntax I used in order to solve the problems.
+The purpose of this SQL Analysis was to get an estimate as to how many employees were within retirement range in addition to how many employees were eligible for the mentorship program. The eligible employees would likely be the employees set to replace the retiriing employees. We can get this information through querying or data retrieval. Below will show my thought process in addition to what syntax I used in order to solve the problems.
 
 ## Query
 ![35937A9A-16DC-4B18-952D-481885604AB2_1_105_c](https://user-images.githubusercontent.com/122326425/213894635-118c7b84-350e-462f-a503-4715a66d15c0.jpeg)
